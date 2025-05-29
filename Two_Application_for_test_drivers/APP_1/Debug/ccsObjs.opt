@@ -1,0 +1,6 @@
+"./APP_1.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./NVIC/NVIC.obj"
+"./SysTick/SysTick.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
