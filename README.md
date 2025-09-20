@@ -1,5 +1,17 @@
 # ARM Cortex-M SysTick & NVIC Driver Development
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Technical Features](#technical-features)
+- [API Reference](#api-reference)
+- [System Requirements](#system-requirements)
+- [Documentation Standards](#documentation-standards)
+- [Testing & Validation](#testing--validation)
+- [Implementation Highlights](#implementation-highlights)
+- [Development Environment](#development-environment)
+- [License](#license)
+
 ## Project Overview
 
 This project implements comprehensive device drivers for the SysTick timer and Nested Vectored Interrupt Controller (NVIC) targeting TM4C series microcontrollers. The implementation focuses on embedded systems programming principles, emphasizing real-time system timing mechanisms and sophisticated interrupt management architectures. The system is configured to operate at a 16MHz clock frequency, providing precise timing control for embedded applications.
